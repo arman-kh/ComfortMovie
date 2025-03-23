@@ -41,7 +41,7 @@ Version: Specify the cut (e.g., theatrical, extended)—scenes shift between edi
 Quality: Verify your times; overlaps are okay but keep them sensible.
 
 Submitting via GitHub Web
-Go to ComfortMovieDB repo.
+Go to MovieHavenDB repo.
 
 Click “Create new file” in movies/.
 
