@@ -28,7 +28,7 @@ For *The Lion King*:
     }
   ]
 }
-
+```
 Guidelines
 Timestamps: Use seconds (e.g., 45.2) from the movie’s start. Double-check they fit the duration.
 
