@@ -1,0 +1,16 @@
+{
+  "imdb_id": "tt0266543",
+  "title": "Finding Nemo",
+  "duration": 6000,
+  "version": "theatrical",
+  "scenes": [
+    {
+      "start": 10.5,
+      "end": 12.8,
+      "reason": "frightening",
+      "severity": 2,
+      "mute": true,
+      "description": "Opening scene—coral reef attack"
+    }
+  ]
+}
