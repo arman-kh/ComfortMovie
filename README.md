@@ -11,7 +11,7 @@ Started as a personal tool for family movie nights, it’s now open to grow with
 How It Works
 The database is a collection of JSON files, one per movie, identified by IMDb ID (e.g., tt0110357 for The Lion King). Each file lists scenes with timestamps and actions:
 Example
-json
+```json
 
 {
   "tt0110357": {
@@ -39,7 +39,7 @@ json
     ]
   }
 }
-
+```
 Fields
 imdb_id: Unique IMDb identifier (e.g., tt0110357).
 
