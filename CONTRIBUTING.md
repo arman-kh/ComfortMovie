@@ -1,6 +1,6 @@
-# Contributing to ComfortMovieDB
+# Contributing to MovieHavenDB
 
-Thanks for helping make **ComfortMovieDB** a better resource for comfy movie nights! This is a slow-growing, volunteer-driven project, so every scene you add counts—whether it’s one movie a month or a quick fix. Here’s how to contribute.
+Thanks for helping make **MovieHavenDB** a better resource for comfy movie nights! This is a slow-growing, volunteer-driven project, so every scene you add counts—whether it’s one movie a month or a quick fix. Here’s how to contribute.
 
 ## How to Add a Movie
 1. **Pick a Movie**: Choose a film you’ve watched. Find its IMDb ID (e.g., `tt0110357` for *The Lion King*) on [imdb.com](https://www.imdb.com).
