@@ -10,7 +10,7 @@ Thanks for helping make **ComfortMovieDB** a better resource for comfy movie nig
 
 ### Example
 For *The Lion King*:
-json
+```json
 {
   "imdb_id": "tt0110357",
   "title": "The Lion King",
