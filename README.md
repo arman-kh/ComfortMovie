@@ -112,4 +112,4 @@ Chat: Share thoughts on X with #FamilyMovieFilter (or ping me, the creator—[yo
 Spread the Word: Tell parents or devs who’d love this!
 
 ## License
-MIT—see [LICENSE](LICENSE) for details.
+Licensed under [CC BY 4.0](LICENSE)—use it freely with credit!
