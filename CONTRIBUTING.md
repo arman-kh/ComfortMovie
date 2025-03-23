@@ -26,7 +26,7 @@ For *The Lion King*:
       "skip": true,
       "description": "Mufasa’s death scene"
     }
-  ]
+  ]```
 }
 
 Guidelines
