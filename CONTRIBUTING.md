@@ -52,7 +52,7 @@ Select “Create a new branch and start a pull request”, then click “Propose
 Add a PR title (e.g., “Add tt0110357 scenes”) and hit “Create pull request”.
 
 Submitting via Git (Optional)
-Clone the repo: git clone https://github.com/your-username/ComfortMovieDB.git.
+Clone the repo: git clone https://github.com/arman-kh/MovieHavenDB.git.
 
 Create a branch: git checkout -b add-movie-tt0110357.
 
