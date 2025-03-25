@@ -1,4 +1,4 @@
-Family Movie Scenes Database
+#Family Movie Scenes Database
 Welcome to the Family Movie Scenes Database—an open-source project to catalog "inappropriate" scenes in movies with precise timestamps and customizable actions. Whether you’re a parent wanting to skip the gore, mute the swearing, or blur the awkward bits during family movie night, or a developer looking to build a smarter video player, this database is for you. It’s a slow-burn, community-driven effort to make movie-watching safer and more enjoyable for everyone.
 
 Motivation
